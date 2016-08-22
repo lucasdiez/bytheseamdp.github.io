@@ -348,9 +348,29 @@ footer {
   margin-bottom: 10px;
 }
 
-.links a + a:before {
+.links {
+  padding-left: 0;
+}
+
+.links li {
+  display: inline-block;
+}
+
+.links li + li:before {
   content: " | ";
   padding: 0 10px 0 7px;
   display: inline-block;
   color: #707070;
+}
+
+.rsvp {
+  background-color: #4769CC;
+  color: #FFF;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+.rsvp:hover {
+  background-color: #FF0080;
+  color: #FFF;
 }
