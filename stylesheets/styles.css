@@ -333,10 +333,20 @@ footer {
   border-bottom: 1px solid #ECECEC;
 }
 
-.talk__block--upcoming > * {
-  color: #D2D2D2;
+.talk__block--past > *,
+.talk__block--past .date,
+.talk__block--past > h3 > a {
+  color: #707070 ;
 }
 
-.talk__block--upcoming > h3 > a {
+.date {
+  color: #4769CC;
+  margin-bottom: 10px;
+}
+
+.links a + a:before {
+  content: " | ";
+  padding: 0 10px 0 7px;
+  display: inline-block;
   color: #707070;
 }
