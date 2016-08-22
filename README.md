@@ -2,7 +2,7 @@
 
 ---
 
-### Comunidad con el fin de acercar a las nuevas generaciones al mundo del desarrollo, incrementar la interacción interdisciplinaria, hacer visible la industria del software a nivel local.
+### We are a community with the aim of bringing new generations into the world of development, increasing interdisciplinary interaction and give the local software industry the visibility it deserves.
 
 ---
 
@@ -13,12 +13,7 @@
 
 ---
 
-## Charlas pasadas
-
-- [2016-08-18 \ Las cosas que nadie me dijo antes del primer día](https://www.meetup.com/by-the-Sea-mdp/events/232951869/)
-	- [Slides](http://slides.com/matiasbeckerle/the-things-no-one-told-me-before-the-first-day)
-	- [Video](https://www.youtube.com/watch?v=jSOOA34tm7w)
-- [2016-05-31 \ Introducción a React](https://www.meetup.com/by-the-Sea-mdp/events/231341862/)
+[bytheseamdp.github.io](https://bytheseamdp.github.io/)
 
 [1.1]: https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/22/facebook-f.png
 [2.1]: https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/22/twitter.png
