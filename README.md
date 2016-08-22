@@ -11,6 +11,15 @@
 [![Meetup Group][3.1]][3]
 [![Youtube Channel][4.1]][4]
 
+---
+
+## Charlas pasadas
+
+- [2016-08-18 \ Las cosas que nadie me dijo antes del primer día](https://www.meetup.com/by-the-Sea-mdp/events/232951869/)
+	- [Slides](http://slides.com/matiasbeckerle/the-things-no-one-told-me-before-the-first-day)
+	- [Video](https://www.youtube.com/watch?v=jSOOA34tm7w)
+- [2016-05-31 \ Introducción a React](https://www.meetup.com/by-the-Sea-mdp/events/231341862/)
+
 [1.1]: https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/22/facebook-f.png
 [2.1]: https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/22/twitter.png
 [3.1]: https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/22/users.png
