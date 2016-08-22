@@ -324,3 +324,19 @@ footer {
     color:#444;
   }
 }
+
+/* Here are the custom styles */
+
+.talk__block {
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ECECEC;
+}
+
+.talk__block--upcoming > * {
+  color: #D2D2D2;
+}
+
+.talk__block--upcoming > h3 > a {
+  color: #707070;
+}
