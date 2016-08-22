@@ -285,7 +285,7 @@ h3 {
   border-bottom: 0;
 }
 
-.talk__block--past .links > a,
+.talk__block--past .links > li > a,
 .talk__block--past .date,
 .talk__block--past > h3 > a {
   color: #707070 ;
