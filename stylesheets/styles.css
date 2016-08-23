@@ -297,6 +297,10 @@ h3 {
   text-decoration: line-through;
 }
 
+.talk__block--past .rsvp {
+  display: none;
+}
+
 .date {
   color: #FF0080;
   margin-bottom: 10px;
@@ -324,11 +328,8 @@ h3 {
   background-color: #4769CC;
   color: #FFF;
   padding: 10px 20px;
+  margin-right: 10px;
   border-radius: 3px;
-}
-
-.rsvp + .links {
-  padding-left: 10px; 
 }
 
 .rsvp:hover {
