@@ -103,6 +103,7 @@ img {
 
 header {
   width:270px;
+  height: 80%;
   float:left;
   position:fixed;
   border-right: 1px solid #ECECEC;
@@ -236,6 +237,7 @@ footer {
 
   header {
     padding:0;
+    border-bottom: 1px solid #ECECEC;
   }
 
   header ul, header p.view {
