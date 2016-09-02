@@ -287,22 +287,35 @@ h3 {
   border-bottom: 0;
 }
 
-.talk__block--past .links > li > a,
-.talk__block--past .date,
-.talk__block--past > h3 > a {
+.talk__block .links > li > a,
+.talk__block .date,
+.talk__block > h3 > a {
   color: #707070 ;
 }
 
-.talk__block--past > h3 > a {
+.talk__block > h3 > a {
   text-decoration: line-through;
 }
 
-.talk__block--past .rsvp {
-  display: none;
+.talk__block--current > h3 > a {
+  text-decoration: none;
 }
 
+.talk__block--current .rsvp {
+  display: inline-block;
+}
+
+.talk__block--current .links > li > a,
+.talk__block--current .date {
+  color:  #FF0080 ;
+}
+
+.talk__block--current > h3 > a {
+  color: #4769CC;
+} 
+
 .date {
-  color: #FF0080;
+  color: #707070;
   margin-bottom: 10px;
   font-size: 11px;
   text-transform: uppercase;
@@ -325,6 +338,7 @@ h3 {
 }
 
 .rsvp {
+  display: none;
   background-color: #4769CC;
   color: #FFF;
   padding: 10px 20px;
