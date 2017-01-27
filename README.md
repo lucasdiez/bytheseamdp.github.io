@@ -13,7 +13,7 @@
 
 ---
 
-[bytheseamdp.github.io](https://bytheseamdp.github.io/)
+[https://bythesea.rocks](https://bythesea.rocks/)
 
 [1.1]: https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/22/facebook-f.png
 [2.1]: https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/22/twitter.png
